@@ -1,4 +1,7 @@
+# Bionformatics - Project 1
+
 - [ ] 1. EGW
+
 - [ ] 2. EGW?
 - [ ] 3. PARHS
 - [ ] 4.1 O,TI VREKSEI AS KATEVASEI 
