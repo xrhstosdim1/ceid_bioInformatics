@@ -7,7 +7,7 @@
 <hr>
 
 >### **2. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/2.%20DrugOn%20a%20fully%20integrated%20pharmacophore%20modeling%20and%20structure%20optimization%20toolkit.pdf) DrugOn**  
-> 👤 _parhs_  
+> 👤 _parhs_  (done studying)
 > - [ ] 🤔
 <hr>
 
@@ -17,7 +17,7 @@
 <hr>
 
 >### **4️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/4.%20Microbiome%20Hijacking%20Towards%20an%20Integrative%20Pest%20Management%20Pipeline.pdf) Microbiome Hijacking**  
-> 👤 _parhs_   (done)
+> 👤 _parhs_   (done studying)
 > - [ ] 🤔
 <hr>
 
