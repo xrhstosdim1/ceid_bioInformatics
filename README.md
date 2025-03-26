@@ -8,7 +8,7 @@
 
 ### **[📂](https://github.com/xrhstosdim1/ceid_bioInformatics/tree/main/Project%202) Project 2**  
 - [Εκφώνηση](https://github.com/xrhstosdim1/bioInformatics-project/blob/main/Project%202/second_project_2025.pdf)  
-- [Αναφορά](https://docs.google.com/document/d/1dM_xovtfjMLipwHmiH1NNwBCSVjP2y7eumZDPm2qLXM/edit?tab=t.0)  
+- [Αναφορά](https://docs.google.com/document/d/1pYHxK-npkkE3_Tb-oIniV4zNdYNTrYjj8sSCh1NHT5U/edit?tab=t.0)  
 - **Grade:** _N/A_  
 <hr>
 
