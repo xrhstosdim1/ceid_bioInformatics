@@ -2,8 +2,11 @@
 
 
 > ### **1️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/1.%20Graph4Med%20a%20web%20application%20and%20a%20graph%20database%20for%20visualizing%20and%20analyzing%20medical%20databases.pdf) Graph4Med**  
-> 👤 _xrhstos_  
-> - [ ] 🤔 
+> 👤 _xrhstos_
+> - [ ] improve on explanations
+> - [ ] minor improvements on doc / beautify
+> - [ ] more research on ALL
+> - [ ] 🤔
 <hr>
 
 >### **2. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/2.%20DrugOn%20a%20fully%20integrated%20pharmacophore%20modeling%20and%20structure%20optimization%20toolkit.pdf) DrugOn**  
@@ -22,7 +25,8 @@
 <hr>
 
 >### **5️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/5.%20Genetic%20and%20structural%20study%20of%20DNA-directed%20RNA%20polymerase%20II%20of%20Trypanosoma%20brucei%2C%20towards%20the%20designing%20of%20novel%20antiparasitic%20agents.pdf) Genetic & Structural Study of RNA Polymerase II**  
-> 👤 _xrhstos_  
+> 👤 _xrhstos_
+> - [ ] finish notes
 > - [ ] 🤔 
 
 <hr>
