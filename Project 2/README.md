@@ -6,6 +6,7 @@
 > - [ ] improve on explanations
 > - [ ] minor improvements on doc / beautify
 > - [ ] more research on ALL
+> - [ ] conclusion
 > - [ ] 🤔
 <hr>
 
@@ -28,6 +29,7 @@
 >### **5️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/5.%20Genetic%20and%20structural%20study%20of%20DNA-directed%20RNA%20polymerase%20II%20of%20Trypanosoma%20brucei%2C%20towards%20the%20designing%20of%20novel%20antiparasitic%20agents.pdf) Genetic & Structural Study of RNA Polymerase II**  
 > 👤 _xrhstos_
 > - [ ] finish notes
+> - [ ] research
 > - [ ] 🤔 
 
 <hr>
