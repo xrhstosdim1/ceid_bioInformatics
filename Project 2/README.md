@@ -24,7 +24,8 @@
 
 >### **4️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/4.%20Microbiome%20Hijacking%20Towards%20an%20Integrative%20Pest%20Management%20Pipeline.pdf) Microbiome Hijacking**  
 > 👤 _parhs_   (done studying)
-> - [ ] writing...
+> - [ ] done writing
+> - [ ] awaiting judgement
 > - [ ] 🤔
 <hr>
 
