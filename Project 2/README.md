@@ -18,7 +18,8 @@
 <hr>
 
 >### **3️. [📄](https://github.com/xrhstosdim1/ceid_bioInformatics/blob/main/Project%202/Papers/3.%20Introducing%20Drugster%3B%20a%20comprehensive%20and%20fully%20integrated%20drug%20design%2C%20lead%20and%20structure%20optimization%20toolkit.pdf) Introducing Drugster**  
-> 👤 _parhs_  
+> 👤 _parhs_  (done studying)
+>- [ ] writing...
 > - [ ] 🤔
 <hr>
 
