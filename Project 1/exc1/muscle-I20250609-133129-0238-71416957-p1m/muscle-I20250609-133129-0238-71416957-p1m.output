@@ -1,0 +1,79 @@
+Started Mon Jun  9 13:31:35 2025
+/muscle/bin/muscle -in muscle-I20250609-133129-0238-71416957-p1m.sequence -verbose -log muscle-I20250609-133129-0238-71416957-p1m.output -quiet -clw -out muscle-I20250609-133129-0238-71416957-p1m.clw 
+Alphabet Amino
+
+MUSCLE v3.8.425 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    LE
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   4294966866
+Gap open                 -2.9
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              -0.52
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     3
+Min best col score       2
+Min anchor score         1
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         True
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   True
+Catch exceptions         True
+Quiet                    True
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer6_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+Elapsed time 00:00:00  Peak memory use   11 MB(-2%)  Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use   11 MB(-2%)  Iteration   1 K-mer dist pass 2
+Align: (NP_000137.2 ferritin light chain [Homo sapiens]) (AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct])
+Align: (NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct]) (AAA35831.1 ferritin light subunit [Homo sapiens])
+Align: (NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct],AAA35831.1 ferritin light subunit [Homo sapiens]) (AKI70338.1 FTL, partial [synthetic construct])
+Align: (6WX6_A Chain A, Ferritin light chain [Homo sapiens]) (2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Align: (CAE11873.1 hypothetical protein, partial [Homo sapiens]) (6WX6_A Chain A, Ferritin light chain [Homo sapiens],2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Align: (NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct],AAA35831.1 ferritin light subunit [Homo sapiens],AKI70338.1 FTL, partial [synthetic construct]) (CAE11873.1 hypothetical protein, partial [Homo sapiens],6WX6_A Chain A, Ferritin light chain [Homo sapiens],2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Align: (AKI70336.1 FTL, partial [synthetic construct]) (NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct],AAA35831.1 ferritin light subunit [Homo sapiens],AKI70338.1 FTL, partial [synthetic construct],CAE11873.1 hypothetical protein, partial [Homo sapiens],6WX6_A Chain A, Ferritin light chain [Homo sapiens],2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Align: (CAG32996.1 FTL [Homo sapiens]) (AKI70336.1 FTL, partial [synthetic construct],NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct],AAA35831.1 ferritin light subunit [Homo sapiens],AKI70338.1 FTL, partial [synthetic construct],CAE11873.1 hypothetical protein, partial [Homo sapiens],6WX6_A Chain A, Ferritin light chain [Homo sapiens],2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Align: (AIC54405.1 FTL, partial [synthetic construct]) (CAG32996.1 FTL [Homo sapiens],AKI70336.1 FTL, partial [synthetic construct],NP_000137.2 ferritin light chain [Homo sapiens],AAP36762.1 Homo sapiens ferritin, light polypeptide, partial [synthetic construct],AAA35831.1 ferritin light subunit [Homo sapiens],AKI70338.1 FTL, partial [synthetic construct],CAE11873.1 hypothetical protein, partial [Homo sapiens],6WX6_A Chain A, Ferritin light chain [Homo sapiens],2FG4_A Chain A, Ferritin light chain [Homo sapiens])
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   1 Align node
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   1 Root alignment
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   2 Refine tree
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   2 Root alignment
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   2 Root alignment
+Anchor columns found       5
+DP area saved by anchors   79.5%
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   3 Refine biparts
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   4 Refine biparts
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   5 Refine biparts
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   6 Refine biparts
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   7 Refine biparts
+Elapsed time 00:00:01  Peak memory use   14 MB(-3%)  Iteration   8 Refine biparts
+Finished Mon Jun  9 13:31:36 2025
